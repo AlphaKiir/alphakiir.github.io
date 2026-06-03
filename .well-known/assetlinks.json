@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.alphakiir.residenceflow",
+      "sha256_cert_fingerprints": [
+        "B9:E3:4B:5C:54:C4:9D:20:8D:8A:D3:4F:01:3D:9B:E8:6B:0F:4E:B4:3B:0A:01:B6:64:82:D0:81:85:5E:91:9A"
+      ]
+    }
+  }
+]
